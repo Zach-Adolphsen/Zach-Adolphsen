@@ -33,7 +33,7 @@
 ## 📫 Social Links
 
 - [LinkedIn](https://www.linkedin.com/in/zachary-adolphsen/)  
-- [Email](zladolphsen@gmail.com)  
+- Email: zladolphsen@gmail.com  
 
 ---
 
