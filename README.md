@@ -32,11 +32,8 @@
 
 ## 📫 Social Links
 
-- [LinkedIn](#)  
-- [Personal Website](#)  
-- [Email](#)  
-
-*Add your social/professional links above!*
+- [LinkedIn](https://www.linkedin.com/in/zachary-adolphsen/)  
+- [Email](zladolphsen@gmail.com)  
 
 ---
 
