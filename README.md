@@ -28,6 +28,9 @@
 - **[Gender Classifier Web App](https://github.com/Zach-Adolphsen/Gender-Classifier-Web-App)**  
   A web application that classifies gender based on user input data.
 
+- **[ETL Pipeline - CSV to BigQuery](https://github.com/Zach-Adolphsen/ETLPipeline_CSVtoBigQuery)**
+  A Python-based ETL pipeline that extracts data from a .csv file, cleans the data by getting rid of unused columns and null rows, and loads the cleaned data into Google BigQuery
+
 ---
 
 ## 📫 Social Links
