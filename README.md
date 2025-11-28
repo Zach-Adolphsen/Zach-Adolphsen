@@ -31,6 +31,9 @@
 - **[ETL Pipeline - CSV to BigQuery](https://github.com/Zach-Adolphsen/ETLPipeline_CSVtoBigQuery)**
   A Python-based ETL pipeline that extracts data from a .csv file, cleans the data by getting rid of unused columns and null rows, and loads the cleaned data into Google BigQuery
 
+- **[WeatherPipeline](https://github.com/Zach-Adolphsen/WeatherPipeline)**
+  A Python-based pipeline that gathers 5-day weather forecast information, cleans it using pandas, and loads the transformed data into a PostgreSQL database
+
 ---
 
 ## 📫 Social Links
