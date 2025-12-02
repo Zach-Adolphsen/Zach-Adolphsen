@@ -5,7 +5,7 @@
 <h1 align="center">Zach Adolphsen</h1>
 
 <p align="center">
-  <strong>Aspiring Data Engineer / Data Scientist</strong><br>
+  <strong>Aspiring Data Engineer</strong><br>
   3rd year Computer Science Student (Data Science Track) at North Dakota State University
 </p>
 
