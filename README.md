@@ -16,7 +16,7 @@
 - 🎓 Currently pursuing a B.S. in Computer Science (Data Science Track) at North Dakota State University
 - 💡 Passionate about turning data into actionable insights and building robust data pipelines
 - 🛠️ Proficient in **C** and **Python**
-- 🚀 Interested in Data Engineering, Big Data, and Machine Learning
+- 🚀 Interested in Data Engineering and Big Data
 
 ---
 
