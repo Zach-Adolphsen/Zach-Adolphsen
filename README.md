@@ -28,7 +28,7 @@
 - **[Stock Market Dashboard (*In Progress*)](https://github.com/Zach-Adolphsen/StockMarketDashboard)**
   A BI dashboard that provides snapshot information of US stock market symbols that the user can choose to view and provide filtering to view necessary data. This project will be a full data engineering project that grabs data from an API, cleans the data, and displays the data on a BI dashboard.
 
-- - **[ETL Pipeline - CSV to BigQuery](https://github.com/Zach-Adolphsen/ETLPipeline_CSVtoBigQuery)**
+- **[ETL Pipeline - CSV to BigQuery](https://github.com/Zach-Adolphsen/ETLPipeline_CSVtoBigQuery)**
   A Python-based ETL pipeline that extracts data from a .csv file, cleans the data by getting rid of unused columns and null rows, and loads the cleaned data into Google BigQuery
 
 - **[WeatherPipeline](https://github.com/Zach-Adolphsen/WeatherPipeline)**
