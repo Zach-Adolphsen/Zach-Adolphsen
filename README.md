@@ -23,7 +23,7 @@
 ## 🏆 Featured Projects
 
 - **[PennyPilot](https://github.com/Zach-Adolphsen/PennyPilot)**  
-  Automating and optimizing trading strategies for penny stocks.
+  A full-stack Angular web app used for tracking income and expenses. Uses Angular (front & backend) and Google Firestore/Firebase (NoSQL cloud storage and user auth)
 
 - **[Stock Market Dashboard (*In Progress*)](https://github.com/Zach-Adolphsen/StockMarketDashboard)**
   A BI dashboard that provides snapshot information of US stock market symbols that the user can choose to view and provide filtering to view necessary data. This project will be a full data engineering project that grabs data from an API, cleans the data, and displays the data on a BI dashboard.
@@ -35,7 +35,7 @@
   A Python-based pipeline that gathers 5-day weather forecast information and loads the transformed data into a PostgreSQL database
 
 - **[Gender Classifier Web App](https://github.com/Zach-Adolphsen/Gender-Classifier-Web-App)**  
-  A web application that classifies gender based on user input data.
+  A web application that predicts gender based on user input data.
 
 ---
 
