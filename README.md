@@ -34,7 +34,7 @@
 - **[WeatherPipeline](https://github.com/Zach-Adolphsen/WeatherPipeline)**
   A Python-based pipeline that gathers 5-day weather forecast information and loads the transformed data into a PostgreSQL database
 
-- **[Gender Classifier Web App](https://github.com/Zach-Adolphsen/Gender-Classifier-Web-App)**  
+- **[Gender Classifier Web App](https://github.com/Zach-Adolphsen/GenderClassifierWebApp)**  
   A React and Flask application that retrieves user height, weight, and shoe size, and uses 4 Machine Learning models to predict the user's gender. Providing the most confident result
 
 ---
