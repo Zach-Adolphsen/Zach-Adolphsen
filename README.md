@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Aspiring Data Engineer</strong><br>
-  3rd year Computer Science Student (Data Science Track) at North Dakota State University
+  3rd year Computer Science Student (Data Science Emphasis) at North Dakota State University
 </p>
 
 ---
