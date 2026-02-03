@@ -28,7 +28,7 @@
 - **[Stock Market Dashboard (*Version Alpha*)](https://github.com/Zach-Adolphsen/StockMarketDashboard)**
   A BI dashboard that provides snapshot information of US stock market symbols that the user (me) has chosen, and provides an interactive dashboard display. This project will be a full data engineering project that grabs data from an API, cleans the data, and displays the data on a BI dashboard.
   
-  - **[Gender Classifier Web App](https://github.com/Zach-Adolphsen/GenderClassifierWebApp)**  
+- **[Gender Classifier Web App](https://github.com/Zach-Adolphsen/GenderClassifierWebApp)**  
   A React and Flask application that retrieves user height, weight, and shoe size, and uses 4 Machine Learning models to predict the user's gender. Providing the most confident result
 
 - **[ETL Pipeline - CSV to BigQuery](https://github.com/Zach-Adolphsen/ETLPipeline_CSVtoBigQuery)**
