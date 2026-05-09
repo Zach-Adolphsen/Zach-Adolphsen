@@ -25,17 +25,11 @@
 - **[PennyPilot](https://github.com/Zach-Adolphsen/PennyPilot)**  
   A full-stack Angular web app used for tracking income and expenses. Uses Angular (front & backend) and Google Firestore/Firebase (NoSQL cloud storage and user auth)
 
-- **[Stock Market Dashboard (*Version Alpha*)](https://github.com/Zach-Adolphsen/StockMarketDashboard)**
+- **[Stock Market Dashboard](https://github.com/Zach-Adolphsen/StockMarketDashboard)**
   A BI dashboard that provides snapshot information of US stock market symbols that the user (me) has chosen, and provides an interactive dashboard display. This project will be a full data engineering project that grabs data from an API, cleans the data, and displays the data on a BI dashboard.
   
 - **[Gender Classifier Web App](https://github.com/Zach-Adolphsen/GenderClassifierWebApp)**  
   A React and Flask application that retrieves user height, weight, and shoe size, and uses 4 Machine Learning models to predict the user's gender. Providing the most confident result
-
-- **[ETL Pipeline - CSV to BigQuery](https://github.com/Zach-Adolphsen/ETLPipeline_CSVtoBigQuery)**
-  A Python-based ETL pipeline that extracts data from a .csv file, cleans the data by getting rid of unused columns and null rows, and loads the cleaned data into Google BigQuery
-
-- **[WeatherPipeline](https://github.com/Zach-Adolphsen/WeatherPipeline)**
-  A Python-based pipeline that gathers 5-day weather forecast information and loads the transformed data into a PostgreSQL database
 
 ---
 
