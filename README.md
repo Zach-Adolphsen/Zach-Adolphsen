@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Aspiring Data Engineer</strong><br>
-  3rd year Computer Science Student (Data Science Emphasis) at North Dakota State University
+  4th year Computer Science Student (Data Science Emphasis) at North Dakota State University
 </p>
 
 ---
@@ -14,9 +14,9 @@
 ## 👋 About Me
 
 - 🎓 Currently pursuing a B.S. in Computer Science (Data Science Track) at North Dakota State University
-- 💡 Passionate about turning data into actionable insights and building robust data pipelines
-- 🛠️ Proficient in **C** and **Python**
-- 🚀 Interested in Data Engineering and Big Data
+- 💡 Passionate about turning data into actionable insights and building robust data systems
+- 🛠️ Proficient in **SQL** and **Python**
+- 🚀 Interests in Data Engineering and Big Data
 
 ---
 
