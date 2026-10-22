@@ -21,7 +21,7 @@
 ---
 
 ## 🏆 Featured Projects
-
+- **[SNAP Benefits Full Data Pipeline](https://github.com/Zach-Adolphsen/zadolphsen_csci422_project)**
 - **[PennyPilot](https://github.com/Zach-Adolphsen/PennyPilot)**  
   A full-stack Angular web app used for tracking income and expenses. Uses Angular (front & backend) and Google Firestore/Firebase (NoSQL cloud storage and user auth)
 
